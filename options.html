@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<link type="text/css" href="css/options.css" rel="stylesheet">
+	<title id="main-title">0</title>
+</head>
+
+<body id="body">
+
+	<div class="header">
+      <div class="logo"><img src="icons/icon_48.png"></div>
+      <div class="content"><span id="title">0</span></div>
+	</div>
+
+	<div class="tabcontainer">
+
+		  <a class="tablinks setting-btn">Settings</a>
+		  <a class="tablinks about-btn">About</a>
+
+	</div>
+
+	<div class="optcontainer">
+
+		<div class="tab-cnt">
+			<hr>
+			<label id="_filtersLabel" class="container">Block cryptominer scripts and urls
+				<input type="checkbox" id="_filters" class="opt">
+				<span class="checkmark"></span>
+			</label>
+			<hr>
+			<label id="_ShowBadgeWarningLabel" class="container">Show warning badge layered over the icon
+				<input type="checkbox" id="_ShowBadgeWarning" class="opt">
+				<span class="checkmark"></span>
+			</label>
+			<hr>
+			<label id="_ShowNotificationLabel" class="container">Show notification and history of cryptominers
+				<input type="checkbox" id="_ShowNotification" class="opt">
+				<span class="checkmark"></span>
+			</label>
+			<hr>
+			<label id="_BlockCpuHungryProcessLabel" class="container">Block cpu-hungry processes
+				<input type="checkbox" id="_BlockCpuHungryProcess" class="opt">
+				<span class="checkmark"></span>
+				<br>
+
+				<span class="custom-dropdown">
+					CPU usage Rate Limit %
+				    <select id="_HighCpuLimit">
+				    	<option>90</option>
+				        <option>100</option>
+					    <option>110</option>
+					    <option>120</option>
+					    <option>130</option>
+					    <option>140</option>
+					    <option>150</option>
+					    <option>160</option>
+				    </select>
+				</span>
+			</label>
+			<hr>
+		</div>
+
+		<div class="tab-cnt">
+			<hr>
+			<p>
+				<h3 id="version">0</h3>
+				Please email your feedback to berataktepe@gmail.com
+			</p>
+			<hr>
+			<h4>Credit</h4>
+			<ul>
+				<li><a href="http://fontawesome.io" target="_blank">Font Awesome</a> by <a href="https://github.com/davegandy" target="_blank">Dave Gandy</a></li>
+			</ul>
+			<hr>
+		</div>
+	</div>
+
+	<script type="text/javascript" src="js/options.js"></script>
+</body>
+</html>

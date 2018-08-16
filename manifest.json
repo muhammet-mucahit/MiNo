@@ -1,0 +1,54 @@
+{
+	// There are two manifest version 1 and 2
+	// The second version is used here, it's about the structure of the manifest file
+	"manifest_version": 2,
+
+	// The name of add-on
+	"name": "MiNo",
+
+	// The description of add-on (What is the add-on doing?)
+	"description": "Stop Cryptojackers! Protect your computer from coin miners!",
+
+	// The version of add on (Increase on every update)
+	"version": "1.2",
+
+	// Specifies the option page (options.html)
+	"options_page": "options.html",
+
+	// Specifies icons of the add-on
+	"icons": {
+		"19": "icons/icon.png",
+		"48": "icons/icon_48.png",
+		"128": "icons/icon_128.png"
+	},
+
+	// Default settings
+	// Default popup page (popup.html)
+	"browser_action": {
+		"default_icon": "icons/icon.png",
+		"icons": [ "icons/icon.png" ],
+		"default_popup": "popup.html"
+	},
+
+	// Specifies background scripts
+	// Those are utils.js and background.js
+	// The {persistent : true} says the scripts work everytime
+	"background": {
+		"scripts": ["js/utils.js", "js/background.js"],
+		"persistent": true
+	},
+
+	// Permissions to access some Chrome features to use Chrome functions in code
+	"permissions": [
+		"activeTab",
+		"storage",
+		"processes",
+		"unlimitedStorage",
+		"tabs",
+		"webRequest",
+		"webRequestBlocking",
+		"<all_urls>",
+		"notifications",
+		"system.cpu"
+	]
+}

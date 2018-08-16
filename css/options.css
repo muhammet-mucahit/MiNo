@@ -1,0 +1,220 @@
+.tablinks {
+    border: 1px solid #ccc;
+    color: black;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1.2em;
+    margin: 0 0.2em 0 0;
+    padding: 7px;
+    position: relative;
+    text-decoration: none;
+    top: 1px;
+}
+
+.logo {
+    float: left;
+    vertical-align: top;
+    padding-right: 10px;
+}
+
+.content {
+    color: #505050;
+    vertical-align: top;
+    padding: 5px;
+}
+
+.optcontainer {
+    padding: 20px;
+    border: 1px solid #ccc;
+    font-size: 1.2em;
+    color: #2b2b2b;
+}
+
+label {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn {
+    padding: 0.7em;
+    text-align: center;
+    background-color: #e2e2e2;
+    color: #505050;
+    border-radius: 4px;
+    cursor: pointer;
+    border: 1px solid #b5b5b5;
+}
+
+.cnt .btn {
+    vertical-align: top;
+}
+
+.btn:hover {
+    background-color: #efefef;
+}
+
+hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+li {
+    margin-top: 5px;
+}
+
+.w3-left {
+    display:inline-block;
+    width:auto;
+    float:left
+    text-align:center;
+}
+
+.w3-right {
+    display:inline-block;
+    width:auto;
+    float:right
+    text-align:center;
+}
+
+.w3-center {
+    display:inline-block;
+    width:auto;
+    text-align:center;
+}
+
+/* The container */
+.container {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 18px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* Hide the browser's default checkbox */
+.container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+}
+
+/* Create a custom checkbox */
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+}
+
+/* On mouse-over, add a grey background color */
+.container:hover input ~ .checkmark {
+    background-color: #ccc;
+}
+
+/* When the checkbox is checked, add a blue background */
+.container input:checked ~ .checkmark {
+    background-color: #5FBF5E;
+}
+
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+/* Show the checkmark when checked */
+.container input:checked ~ .checkmark:after {
+    display: block;
+}
+
+/* Style the checkmark/indicator */
+.container .checkmark:after {
+    left: 9px;
+    top: 5px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+/* Custom dropdown */
+.custom-dropdown {
+  font-size: .7em;
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 10px; /* demo only */
+}
+
+.custom-dropdown select {
+  background-color: #5FBF5E;
+  color: #fff;
+  font-size: inherit;
+  padding: .5em;
+  padding-right: 2.5em; 
+  border: 0;
+  margin: 0;
+  border-radius: 3px;
+  text-indent: 0.01px;
+  text-overflow: '';
+  /*Hiding the select arrow for firefox*/
+  -moz-appearance: none;
+  /*Hiding the select arrow for chrome*/
+  -webkit-appearance:none;
+  /*Hiding the select arrow default implementation*/
+  appearance: none;
+}
+/*Hiding the select arrow for IE10*/
+.custom-dropdown select::-ms-expand {
+    display: none;
+}
+
+.custom-dropdown::before,
+.custom-dropdown::after {
+  content: "";
+  position: absolute;
+  pointer-events: none;
+}
+
+.custom-dropdown::after { /*  Custom dropdown arrow */
+  content: "\25BC";
+  height: 1em;
+  font-size: .625em;
+  line-height: 1;
+  right: 1.2em;
+  top: 50%;
+  margin-top: -.5em;
+}
+
+.custom-dropdown::before { /*  Custom dropdown arrow cover */
+  width: 2em;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  border-radius: 0 3px 3px 0;
+  background-color: rgba(0,0,0,.2);
+}
+
+.custom-dropdown::after {
+  color: #5FBF5E;
+}
+
+.custom-dropdown select[disabled] {
+  color: #A5C1A5;
+}

@@ -1,0 +1,108 @@
+body {
+	font-family: helvetica, arial, 'Lucida Grande', 'Segoe UI', Tahoma, 'DejaVu Sans', sans-serif;
+	background-color: #f5f5f5;
+	min-width: 200px;
+}
+
+hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+label {
+    color: grey;
+}
+
+table td {
+    border-left: 10px solid #c0c0c0;
+    padding: 5px;
+    background-color: #eee;
+}
+
+h2 {
+    border: 0;
+    font-size: 13px;
+    font-weight: normal;
+    padding: 0.2em;
+    text-align: center;
+    background-color: #eee;
+    color: #666;
+}
+
+#blockedNum {
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.header {
+    padding-bottom: 8px;
+}
+
+.logo {
+    float: left;
+    vertical-align: top;
+    padding-right: 10px;
+}
+
+.content {
+    color: #505050;
+    vertical-align: top;
+    padding: 5px;
+}
+
+.content #title {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.w-btn {
+    display: block; 
+    width: 100%;
+    margin: 5px 0;
+    font-size: 13px;
+    font-weight: normal;
+    padding: 0.7em;
+    text-align: center;
+    background-color: #fff;
+    color: #505050;
+    border-radius: 4px;
+    cursor: pointer;
+    border: 0;
+    border: 1px solid #dedede;
+}
+
+.w-btn:hover {
+    background-color: #fcfcfc;
+}
+
+.x-btn {
+    width: 100%;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+
+}
+
+#enableButton {
+	background-color: #5FBF5E;
+}
+
+#enableButton:hover {
+    background-color: #68CD66;
+}
+
+#disableButton {
+	background-color: #9B9A95;
+    //e23838
+}
+
+#disableButton:hover {
+    background-color: #ABA99E;
+}
