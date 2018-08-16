@@ -7,8 +7,7 @@ over the long named competitors. \[10\] In this case, we believe MiNo
 will get ahead with short, phonetic and sympathetic name against
 competitors such as NoCoin, NoMiner, CoinBlock etc.
 
-![alt_text](images/Picture1.png){width="5.541666666666667in"
-height="1.4027777777777777in"}
+![alt_text](images/Picture1.png)
 
 *Figure 4.1 -- MiNo*
 
@@ -33,8 +32,7 @@ height="1.4027777777777777in"}
 > completed, icon will appear on the top right side of the browser and
 > MiNo will be ready to use.
 >
-> ![alt_text](images/Picture2.png){width="7.0in"
-> height="5.311805555555556in"}
+> ![alt_text](images/Picture2.png)
 >
 > *Figure 4.2 -- Installation of the MiNo in Google Chrome Extensions
 > page*
@@ -55,8 +53,7 @@ height="1.4027777777777777in"}
 > enabled back anytime user wishes without closing or reopening the
 > browser since Enable/Disable function works instantly.
 >
-> ![/Enable/Disable.jpg](images/Picture3.png){width="6.2347823709536305in"
-> height="4.085217629046369in"}
+> ![/Enable/Disable.jpg](images/Picture3.png)
 >
 > *Figure 4.3 -- MiNo in disabled (left) and enabled (right) mode*
 >
@@ -70,7 +67,7 @@ height="1.4027777777777777in"}
 > clicks the button, it takes user to a new page displaying the options
 > on a new tab on browser.
 >
-> ![alt_text](images/Picture4.png){width="6.525in" height="3.275in"}
+> ![alt_text](images/Picture4.png)
 >
 > *Figure 4.4 -- Settings page*
 >
@@ -97,8 +94,7 @@ height="1.4027777777777777in"}
 > browser whenever a threat detected, which is one of the visual warning
 > systems of the program.
 
-![](images/Picture5.png){width="6.527777777777778in"
-height="0.36736111111111114in"}
+![](images/Picture5.png)
 
 > *Figure 4.5 -- Miner detected warning (Option 2 - Badge)*
 >
@@ -109,8 +105,7 @@ height="0.36736111111111114in"}
 > of the threats detected or blocked in the history section which we
 > will review in the next chapter.
 >
-> ![Screen%20Shot%202018-06-21%20at%202.14.13%20AM.png](images/Picture6.png){width="6.55625in"
-> height="3.4701487314085737in"}
+> ![Screen%20Shot%202018-06-21%20at%202.14.13%20AM.png](images/Picture6.png)
 >
 > *Figure 4.6 -- Miner detected warning (Option 3 - Notification)*
 >
@@ -132,8 +127,7 @@ height="0.36736111111111114in"}
 > page provides information including the version of the program,
 > contact information of the developer and credits.
 >
-> ![about%20page.png](images/Picture7.png){width="6.638888888888889in"
-> height="3.0in"}
+> ![about%20page.png](images/Picture7.png)
 >
 > *Figure 4.7 -- About page*
 >
@@ -158,8 +152,7 @@ height="0.36736111111111114in"}
 > reached easily by clicking the MiNo icon and clicking the history
 > button anytime on the browser.
 >
-> ![History%20page.png](images/Picture8.png){width="6.638888888888889in"
-> height="4.7826093613298335in"}
+> ![History%20page.png](images/Picture8.png)
 >
 > *Figure 4.8 -- History page*
 >
@@ -200,8 +193,7 @@ height="0.36736111111111114in"}
 > and let the user to access the web page without any threat to computer
 > resources.
 >
-> ![Screen%20Shot%202018-06-21%20at%203.20.19%20PM.png](images/Picture9.png){width="6.638888888888889in"
-> height="4.582609361329834in"}
+> ![Screen%20Shot%202018-06-21%20at%203.20.19%20PM.png](images/Picture9.png)
 >
 > *Figure 4.9 - Malicious script blocked while website loaded regularly*
 >
@@ -213,8 +205,7 @@ height="0.36736111111111114in"}
 > previous chapter, this control mechanism can be disabled from settings
 > without disabling the program itself.
 >
-> ![URL%20blocked.png](images/Picture10.png){width="6.625in"
-> height="4.26956583552056in"}
+> ![URL%20blocked.png](images/Picture10.png)
 >
 > *Figure 4.10 -- Malicious URL detected and web page blocked*
 >
