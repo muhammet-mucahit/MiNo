@@ -1,4 +1,4 @@
-> ##MiNo (Mine No)##
+> ## MiNo (Mine No) ##
 
 
 >We named the extension as MiNo with the shortcut of words "Mine" and
