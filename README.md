@@ -1,15 +1,17 @@
-> **MiNo (Mine No)**
+> ##MiNo (Mine No)##
 
-We named the extension as MiNo with the shortcut of words "Mine" and
-"No". According to the many marketing researches; simple, short and easy
-to remember names more likely to be remembered by user and preferred
-over the long named competitors. \[10\] In this case, we believe MiNo
-will get ahead with short, phonetic and sympathetic name against
-competitors such as NoCoin, NoMiner, CoinBlock etc.
 
-![alt_text](images/Picture1.png)
+>We named the extension as MiNo with the shortcut of words "Mine" and
+>"No". According to the many marketing researches; simple, short and easy
+>to remember names more likely to be remembered by user and preferred
+>over the long named competitors. In this case, we believe MiNo
+>will get ahead with short, phonetic and sympathetic name against
+>competitors such as NoCoin, NoMiner, CoinBlock etc.
+>
+>
+>![alt_text](images/Picture1.png)
 
-*Figure 4.1 -- MiNo*
+
 
 > ***4.1 Requirements and Installation***
 >
@@ -33,10 +35,9 @@ competitors such as NoCoin, NoMiner, CoinBlock etc.
 > MiNo will be ready to use.
 >
 > ![alt_text](images/Picture2.png)
->
-> *Figure 4.2 -- Installation of the MiNo in Google Chrome Extensions
-> page*
->
+
+
+
 > ***4.2 Overview and Features***
 >
 > MiNo's icon will appear on the right top part of the Chrome web
@@ -54,9 +55,9 @@ competitors such as NoCoin, NoMiner, CoinBlock etc.
 > browser since Enable/Disable function works instantly.
 >
 > ![/Enable/Disable.jpg](images/Picture3.png)
->
-> *Figure 4.3 -- MiNo in disabled (left) and enabled (right) mode*
->
+
+
+
 > ***4.2.1 Settings***
 >
 > MiNo provides flexible controls for users to personalize the controls
@@ -68,8 +69,6 @@ competitors such as NoCoin, NoMiner, CoinBlock etc.
 > on a new tab on browser.
 >
 > ![alt_text](images/Picture4.png)
->
-> *Figure 4.4 -- Settings page*
 >
 > There are four main controls provided under settings. Controls listed
 > with a checkbox on the left side allowing user to enable or disable
@@ -96,8 +95,7 @@ competitors such as NoCoin, NoMiner, CoinBlock etc.
 
 ![](images/Picture5.png)
 
-> *Figure 4.5 -- Miner detected warning (Option 2 - Badge)*
->
+
 > The third option is "Show notification and history of cryptominers".
 > This checkbox allows user to enable or disable the notifications
 > displayed whenever a threat detected or blocked which is the second
@@ -107,7 +105,6 @@ competitors such as NoCoin, NoMiner, CoinBlock etc.
 >
 > ![Screen%20Shot%202018-06-21%20at%202.14.13%20AM.png](images/Picture6.png)
 >
-> *Figure 4.6 -- Miner detected warning (Option 3 - Notification)*
 >
 > The last option is "Block CPU-hungry processes". This checkbox allows
 > user to enable or disable the function of checking and blocking the
@@ -129,8 +126,9 @@ competitors such as NoCoin, NoMiner, CoinBlock etc.
 >
 > ![about%20page.png](images/Picture7.png)
 >
-> *Figure 4.7 -- About page*
->
+
+
+
 > ***4.2.2 History***
 >
 > MiNo is keeping the records of the detected threats with various
@@ -154,13 +152,14 @@ competitors such as NoCoin, NoMiner, CoinBlock etc.
 >
 > ![History%20page.png](images/Picture8.png)
 >
-> *Figure 4.8 -- History page*
 >
 > We reviewed the general details of the user interface and features of
 > the MiNo including installation, design, functions and user controls.
 > In the next chapter, we will review the details of the security
 > mechanism of the MiNo running on background.
->
+
+
+
 > ***4.3 Detection Mechanism (Background)***
 >
 > MiNo consists of two main mechanisms to detect the malicious processes
@@ -169,7 +168,9 @@ competitors such as NoCoin, NoMiner, CoinBlock etc.
 > check the malicious scripts and URLs from the blacklist. Second
 > mechanism is checking the CPU usage rate of each process running on
 > browser from the task manager to detect any malicious activity.
->
+
+
+
 > ***4.3.1 Blocking Malicious Scripts and URLs***
 >
 > MiNo collects the malicious cryptominer scripts and URLs from an
@@ -195,7 +196,6 @@ competitors such as NoCoin, NoMiner, CoinBlock etc.
 >
 > ![Screen%20Shot%202018-06-21%20at%203.20.19%20PM.png](images/Picture9.png)
 >
-> *Figure 4.9 - Malicious script blocked while website loaded regularly*
 >
 > On the other hand, if MiNo detects any malicious URL, it will block
 > the whole web page and will not let user to access to the web page in
@@ -206,9 +206,10 @@ competitors such as NoCoin, NoMiner, CoinBlock etc.
 > without disabling the program itself.
 >
 > ![URL%20blocked.png](images/Picture10.png)
->
-> *Figure 4.10 -- Malicious URL detected and web page blocked*
->
+
+
+
+
 > ***4.3.2 Blocking Processes Using High CPU***
 >
 > Second mechanism is based on controlling the CPU usage rate of the
@@ -276,4 +277,4 @@ competitors such as NoCoin, NoMiner, CoinBlock etc.
 > by MiNo due to high CPU usage. However, Google recently filtered and
 > removed most of the harmful extensions from the Chrome market hence we
 > could test this feature on only one add-on in experiment section for
-> now. \[12\]
+> now.
