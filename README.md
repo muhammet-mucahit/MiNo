@@ -1,4 +1,4 @@
-> ## MiNo (Mine No) ##
+> # **MiNo (Mine No)** #
 
 
 >We named the extension as MiNo with the shortcut of words "Mine" and
@@ -13,7 +13,7 @@
 
 
 
-> ***4.1 Requirements and Installation***
+> ## ***4.1 Requirements and Installation*** ##
 >
 > The add-on MiNo was developed and configured for Google Chrome
 > Developer Channel which is the newest version of Google Chrome web
@@ -38,7 +38,7 @@
 
 
 
-> ***4.2 Overview and Features***
+> ## ***4.2 Overview and Features*** ##
 >
 > MiNo's icon will appear on the right top part of the Chrome web
 > browser within the installation. This is the default location of
@@ -58,7 +58,7 @@
 
 
 
-> ***4.2.1 Settings***
+> ## ***4.2.1 Settings*** ##
 >
 > MiNo provides flexible controls for users to personalize the controls
 > for their preferences to have better functionality. When the icon
@@ -129,7 +129,7 @@
 
 
 
-> ***4.2.2 History***
+> ## ***4.2.2 History*** ##
 >
 > MiNo is keeping the records of the detected threats with various
 > information. The page this information displayed can be reached from
@@ -160,7 +160,7 @@
 
 
 
-> ***4.3 Detection Mechanism (Background)***
+> ## ***4.3 Detection Mechanism (Background)*** ##
 >
 > MiNo consists of two main mechanisms to detect the malicious processes
 > and protect the system resources from being used without the user's
@@ -171,7 +171,7 @@
 
 
 
-> ***4.3.1 Blocking Malicious Scripts and URLs***
+> ## ***4.3.1 Blocking Malicious Scripts and URLs*** ##
 >
 > MiNo collects the malicious cryptominer scripts and URLs from an
 > external file calls filters.txt inside the assets folder when it is
@@ -210,7 +210,7 @@
 
 
 
-> ***4.3.2 Blocking Processes Using High CPU***
+> ## ***4.3.2 Blocking Processes Using High CPU*** ##
 >
 > Second mechanism is based on controlling the CPU usage rate of the
 > processes running on the Chrome web browser. MiNo controls the CPU
