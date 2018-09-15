@@ -9,7 +9,7 @@ will get ahead with short, phonetic and sympathetic name against
 competitors such as NoCoin, NoMiner, CoinBlock etc.
 
 
-[alt_text](images/Picture1.png)
+![](images/Picture1.png)
 
 
 
@@ -34,7 +34,7 @@ Chrome browser to complete the installation. Once these steps
 completed, icon will appear on the top right side of the browser and
 MiNo will be ready to use.
 
-![alt_text](images/Picture2.png)
+![](images/Picture2.png)
 
 
 
@@ -54,7 +54,7 @@ or any page use higher CPU rate with the user's consent. MiNo can be
 enabled back anytime user wishes without closing or reopening the
 browser since Enable/Disable function works instantly.
 
-[/Enable/Disable.jpg](images/Picture3.png)
+![](images/Picture3.png)
 
 
 
@@ -68,7 +68,7 @@ the controls page to check or change the controls. When the user
 clicks the button, it takes user to a new page displaying the options
 on a new tab on browser.
 
-![alt_text](images/Picture4.png)
+![](images/Picture4.png)
 
 There are four main controls provided under settings. Controls listed
 with a checkbox on the left side allowing user to enable or disable
@@ -103,7 +103,7 @@ visual warning system. This option also allows user to log the history
 of the threats detected or blocked in the history section which we
 will review in the next chapter.
 
-[Screen%20Shot%202018-06-21%20at%202.14.13%20AM.png](images/Picture6.png)
+![](images/Picture6.png)
 
 
 The last option is "Block CPU-hungry processes". This checkbox allows
@@ -124,7 +124,7 @@ There is also another tab on the Settings page calls "About". This
 page provides information including the version of the program,
 contact information of the developer and credits.
 
-![about%20page.png](images/Picture7.png)
+![](images/Picture7.png)
 
 
 
@@ -150,7 +150,7 @@ click this button to clear the current records. History page can be
 reached easily by clicking the MiNo icon and clicking the history
 button anytime on the browser.
 
-![History%20page.png](images/Picture8.png)
+![](images/Picture8.png)
 
 
 We reviewed the general details of the user interface and features of
@@ -194,7 +194,7 @@ background. In this case, MiNo will only block the malicious content
 and let the user to access the web page without any threat to computer
 resources.
 
-![Screen%20Shot%202018-06-21%20at%203.20.19%20PM.png](images/Picture9.png)
+![](images/Picture9.png)
 
 
 On the other hand, if MiNo detects any malicious URL, it will block
@@ -205,7 +205,7 @@ depending on user preferences on settings. Also, as we mention in the
 previous chapter, this control mechanism can be disabled from settings
 without disabling the program itself.
 
-![URL%20blocked.png](images/Picture10.png)
+![](images/Picture10.png)
 
 
 
